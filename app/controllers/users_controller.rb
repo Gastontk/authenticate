@@ -1,4 +1,6 @@
 class UsersController < ApplicationController
+
+	# 9:00 AM
   def new
   end
 
